@@ -5,6 +5,8 @@ GAP CLoSR (General Approach to Planning Connectivity from Local Scales to Region
 
 The latest executable version of the GAP CLoSR tool can be downloaded from this repository.
 
+see wiki for more information www.github.com/GAP-CLoSR/GAP-CLoSR-Tools-DOWNLOAD/wiki
+
 
 
 
