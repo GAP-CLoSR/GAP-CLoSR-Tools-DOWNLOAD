@@ -30,7 +30,7 @@ Graphab: Foltête J.C., Clauzel C., Vuidel G., 2012. A software tool dedicated t
 
 Circuitscape: http://www.circuitscape.org/home McRae, B.H., B.G. Dickson, T.H. Keitt, and V.B. Shah. 2008. Using circuit theory to model connectivity in ecology and conservation. Ecology 10: 2712-2724.
 
-The graphical user interface was developed by Michael Lacey in association with Alex Lechner. 
+The graphical user interface was developed by Michael Lacey. 
 
 We also wish to acknowledge the contribution of the numerous people who have made this tool possible through their input.
 
