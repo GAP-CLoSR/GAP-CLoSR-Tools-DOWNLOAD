@@ -3,7 +3,7 @@ GAP-CLoSR-Tools
 
 GAP CLoSR (General Approach to Planning Connectivity from Local Scales to Regional) Tools allows for pre-processing of spatial data for inputs into the Graphab and Circuitscape connectivity modelling software. 
 
-This repository contains the latest executable version of the GAP CLoSR tool.
+The latest executable version of the GAP CLoSR tool can be downloaded from this repository.
 
 
 
