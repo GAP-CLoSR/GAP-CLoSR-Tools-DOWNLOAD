@@ -15,6 +15,10 @@ Graphab: Foltête J.C., Clauzel C., Vuidel G., 2012. A software tool dedicated t
 
 Circuitscape: http://www.circuitscape.org/home McRae, B.H., B.G. Dickson, T.H. Keitt, and V.B. Shah. 2008. Using circuit theory to model connectivity in ecology and conservation. Ecology 10: 2712-2724.
 
-The graphical user interface was developed by Michael Lacey in association with Alex Lechner. This work was supported by the Australian Government’s National Environmental Research Program through the Landscapes & Policy Research Hub 
+The graphical user interface was developed by Michael Lacey in association with Alex Lechner. 
+
+We also wish to acknowledge the contribution of the numerous people who have made this tool possible through their input.
+
+This work was supported by the Australian Government’s National Environmental Research Program through the Landscapes & Policy Research Hub 
 
 GAP CLoSR Tools is licensed under Creative Commons Attribution-NonCommercial 3.0 Australia (CC BY-NC 3.0 AU) license.
